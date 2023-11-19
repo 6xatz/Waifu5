@@ -44,7 +44,7 @@ fungsi dan penjelasan sudah tertera pada ***#*** dan ***print*** diatas.
 ## Praktikum 5
 <p align="left">
   <img src="/ss/praktikum5.jpg" width="400">
-  <img src="/ss/flowchart.jpg" width="130">
+  <img src="/ss/flowchart.jpg" width="180">
 </p>
 
     # List Initialization
