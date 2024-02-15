@@ -1,7 +1,9 @@
 ## Mata Kuliah
-Sebagai tugas praktikum: [5] Bahasa Pemrograman | Universitas Pelita Bangsa. 
+
+Sebagai tugas praktikum: [5] Bahasa Pemrograman | Universitas Pelita Bangsa.
 
 ## Latihan
+
 <p align="left">
   <img src="/ss/latihan.jpg" width="450">
 </p>
@@ -39,9 +41,10 @@ Sebagai tugas praktikum: [5] Bahasa Pemrograman | Universitas Pelita Bangsa.
     listx = lista + listb
     print("Menggabungkan List A dan List B:", listx, "\n")
 
-fungsi dan penjelasan sudah tertera pada ***#*** dan ***print*** diatas.
+fungsi dan penjelasan sudah tertera pada **_#_** dan **_print_** diatas.
 
 ## Praktikum 5
+
 <p align="left">
   <img src="/ss/praktikum5.jpg" width="400">
   <img src="/ss/flowchart.jpg" width="180">
@@ -95,8 +98,9 @@ fungsi dan penjelasan sudah tertera pada ***#*** dan ***print*** diatas.
 
     print("+----+-----------------------+--------+--------+-------+-------+---------+")
 
-kode diatas menggunakan ***separate structure*** atau ***[]*** agar lebih mudah menempatkan ***value***.
-***append*** berfungsi untuk menambahkan data ke list yang sudah ada.
+kode diatas menggunakan **_separate structure_** atau **_[]_** agar lebih mudah menempatkan **_value_**.
+**_append_** berfungsi untuk menambahkan data ke list yang sudah ada.
 
 ## Documentation
+
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
